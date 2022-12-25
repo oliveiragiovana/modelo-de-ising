@@ -31,3 +31,5 @@ mantém-se o mesmo sinal se *r < z*"
 Referência:
 
 https://rajeshrinet.github.io/blog/2014/ising-model/
+
+*falta escrever instruções de como usar*
